@@ -12,32 +12,28 @@
 
 
 # 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true) <br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=catiaremelgado&theme=discord_old_blurple&count_private=true&bg_color=0d1117)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
 Websites for the icon languages
 https://marwin1991.github.io/profile-technology-icons/
 -->
-<<<<<<< HEAD
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> 
+  <!-- github stats-->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> <!--most used languages -->
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" /> 
+  <!--contributions etc -->
+  <img width="37%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117" /> 
   
-  <img width="37%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=catiaremelgado&theme=discord_old_blurple&count_private=true&bg_color=0d1117&hide_border=true" /> 
 </div>
-=======
->>>>>>> 984d58221823d8a534ee34e14098664bda78e51e
+  <!--contribution graph -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=catiaremelgado&bg_color=0d1117&color=7289DA&line=7289DA&point=7289DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cátia Remelgado github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=catiaremelgado&bg_color=0d1117&color=7289DA&line=7289DA&point=7289DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--
+![](https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true) <br/>
 
-<<<<<<< HEAD
- 
-=======
- 
->>>>>>> 984d58221823d8a534ee34e14098664bda78e51e
+![](https://github-readme-streak-stats.herokuapp.com/?user=catiaremelgado&theme=discord_old_blurple&count_private=true&bg_color=0d1117)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact)
+-->
