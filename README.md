@@ -23,14 +23,21 @@
 Websites for the icon languages
 https://marwin1991.github.io/profile-technology-icons/
 -->
+<<<<<<< HEAD
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" /> 
   
   <img width="37%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=catiaremelgado&theme=discord_old_blurple&count_private=true&bg_color=0d1117&hide_border=true" /> 
 </div>
+=======
+>>>>>>> 984d58221823d8a534ee34e14098664bda78e51e
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=catiaremelgado&bg_color=0d1117&color=7289DA&line=7289DA&point=7289DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 984d58221823d8a534ee34e14098664bda78e51e
