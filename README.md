@@ -50,3 +50,8 @@ github contributions personalized
 
 https://github-readme-streak-stats.herokuapp.com/demo/?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=weekly&type=svg&properties=border&background=%230D1117
 -->
+ <!--in progress!!! -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/catiaremelgado/count.svg" />
+</p>
