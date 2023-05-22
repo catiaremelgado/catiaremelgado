@@ -16,7 +16,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> <!--most used languages -->
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" /> 
   <!--contributions etc -->
-  <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117" /> 
+   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117" />
   
 </div>
   <!--contribution graph -->
