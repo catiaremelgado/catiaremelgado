@@ -50,7 +50,3 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=catiaremelgado&theme
 [![catiaremelgado GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=catiaremelgado&count_private=true&random=2323431sd2f)](https://github.com/catiaremelgado/github-readme-stats)
 -->
 
-=======
--->
- 
->>>>>>> acab92d681cc2820fd8225d37b6562cbda9d3bd0
