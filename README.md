@@ -24,7 +24,7 @@
 
 <div align="center">  
   <!-- github stats-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> <!--most used languages -->
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117&count_private=true" alt="Cátia Remelgado github stats" /> <!--most used languages -->
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" /> 
   <!--contributions etc -->
   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117" /> 
@@ -49,4 +49,7 @@ https://marwin1991.github.io/profile-technology-icons/
 github contributions personalized
 
 https://github-readme-streak-stats.herokuapp.com/demo/?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=weekly&type=svg&properties=border&background=%230D1117
+
+[![catiaremelgado GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=catiaremelgado&count_private=true&random=2323431sd2f)](https://github.com/catiaremelgado/github-readme-stats)
 -->
+
