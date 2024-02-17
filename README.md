@@ -23,18 +23,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=catiaremelgado&theme=discord_old_blurple&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Cátia Remelgado github stats" /> <!--most used languages -->
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiaremelgado&theme=discord_old_blurple&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=0d1117" /> 
   <!--contributions etc -->
-   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&theme=discord-old-blurple&hide_border=true&mode=weekly&background=0D1117" />
+   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=catiaremelgado&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D&mode=weekly&currStreakNum=945C54&stroke=DEC0C0&ring=945C54&sideNums=945C54&currStreakLabel=DEC0C0&background=0C1414&dates=DEC0C0" alt="GitHub Streak" alt="GitHub Streak" />
   
 </div>
   <!--contribution graph -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=catiaremelgado&bg&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--in progress!!! -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/catiaremelgado/count.svg" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=catiaremelgado&bg&theme=xcode&bg_color=0c1414)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 Websites for the icon languages
