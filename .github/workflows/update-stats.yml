@@ -1,0 +1,38 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - scripts/generate_stats.py
+      - .github/workflows/update-stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate images
+        env:
+          # Uses your personal token if you add one (counts private work in full),
+          # otherwise the built-in token.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add images/stats.svg images/activity.svg
+          git diff --cached --quiet || git commit -m "Update profile stats"
+          git push
