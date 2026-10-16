@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="GitHub contribution stats">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+  .value { fill: #9ba8e8; font-size: 32px; font-weight: 700; }
+  .label { fill: #e6edf3; font-size: 15px; font-weight: 600; }
+  .sub { fill: #8b949e; font-size: 12px; }
+</style>
+<rect x="0.5" y="0.5" width="899" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="128" y="68" class="value">82</text><text x="128" y="98" class="label">Contributions</text><text x="128" y="118" class="sub">past year</text><text x="342" y="68" class="value">0</text><text x="342" y="98" class="label">Current streak</text><text x="342" y="118" class="sub">days</text><line x1="235" y1="40" x2="235" y2="120" stroke="#30363d"/><text x="558" y="68" class="value">7</text><text x="558" y="98" class="label">Longest streak</text><text x="558" y="118" class="sub">days, past year</text><line x1="450" y1="40" x2="450" y2="120" stroke="#30363d"/><text x="772" y="68" class="value">11</text><text x="772" y="98" class="label">Best day</text><text x="772" y="118" class="sub">17 Sep 2026</text><line x1="665" y1="40" x2="665" y2="120" stroke="#30363d"/>
+</svg>
